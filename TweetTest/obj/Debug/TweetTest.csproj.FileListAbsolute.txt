@@ -1,0 +1,10 @@
+c:\users\ernest\documents\visual studio 2013\Projects\TweetTest\TweetTest\bin\Debug\TweetTest.exe.config
+c:\users\ernest\documents\visual studio 2013\Projects\TweetTest\TweetTest\bin\Debug\TweetTest.exe
+c:\users\ernest\documents\visual studio 2013\Projects\TweetTest\TweetTest\bin\Debug\TweetTest.pdb
+c:\users\ernest\documents\visual studio 2013\Projects\TweetTest\TweetTest\bin\Debug\CoreTweet.dll
+c:\users\ernest\documents\visual studio 2013\Projects\TweetTest\TweetTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\ernest\documents\visual studio 2013\Projects\TweetTest\TweetTest\bin\Debug\CoreTweet.xml
+c:\users\ernest\documents\visual studio 2013\Projects\TweetTest\TweetTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\ernest\documents\visual studio 2013\Projects\TweetTest\TweetTest\obj\Debug\TweetTest.csprojResolveAssemblyReference.cache
+c:\users\ernest\documents\visual studio 2013\Projects\TweetTest\TweetTest\obj\Debug\TweetTest.exe
+c:\users\ernest\documents\visual studio 2013\Projects\TweetTest\TweetTest\obj\Debug\TweetTest.pdb
